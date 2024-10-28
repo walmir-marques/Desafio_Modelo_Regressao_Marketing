@@ -58,5 +58,5 @@ Utilize também dos materiais complementares para te guiar neste desafio!
 utilizando as principais bibliotecas de Python
 *SciKit Learn → Documentação com os principais modelos utilizados para
 clusterização
-
+  
 
