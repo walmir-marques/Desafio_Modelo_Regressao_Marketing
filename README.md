@@ -1,16 +1,12 @@
 ## Desafio_Modelo_Regressao_Marketing
 
-Desafio: Construindo um modelo de Regressão para marketing 1
-🟡
-Desafio: Construindo um modelo
-de Regressão para marketing
-🚀 Desafio
+## Desafio: Construindo um modelo de Regressão para marketing 1
 
-Base de dados:
+**Base de dados:**
 MKT.csv
 
 
-* Prepare seu dataset para modelagem de dados
+## Prepare seu dataset para modelagem de dados
 
 * Aplique os conhecimentos de regressão para estruturar uma
 análise em um dataset de campanha de marketing. O modelo de
